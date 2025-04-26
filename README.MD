@@ -46,11 +46,13 @@ Once compiled, simply run `./cpptest`
 ## All the stupid questions
 ### How long to make this ?
 15 minutes (ft. neovim)
+
 Inspired by Steam's 30th most played game (as time of writing): Banana
 
 ### How long to compile ?
 Less than 5 seconds on an Intel Atom Z520
-IF your PC is any modern, less than a second
+
+If your PC is any modern, less than a second
 
 ### Why ?
 Why not?
