@@ -1,5 +1,21 @@
 # CPP TEST PROGRAM
-**The worst program ever written in C++**
+*The ***worst*** program ever written in C++*
+
+## Dependencies?
+ - CMake
+ - PkgConfig
+ - CXX compiler (g++)
+ **To make things easier, get your distro's base set of development/build tools**
+   - `build-essential` on Debian/Ubuntu
+   - `Development Tools` group on Red Hat/Fedora
+   - `base-devel` on Arch
+   - `build-base` on Alpine
+
+ - GTK4 development files
+   - `libgtk4-dev` on Debian/Ubuntu
+   - `gtk4-devel` on Red Hat/Fedora
+   - `gtk4` on Arch
+   - `gtk4.0-dev` on Alpine)
 
 ## How to compile ?
 ```sh
@@ -24,8 +40,8 @@ Once compiled, simply run `./cpptest`
  - Set the box as the Windows's child
 
  button_clicked:
-  - Adds "1" to the clicks function
-  - Updates the label to show "{clicks} clicks"
+ - Adds "1" to the clicks function
+ - Updates the label to show "{clicks} clicks"
 
 ## All the stupid questions
 ### How long to make this ?
